@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/adhoke/Music/Practice_workspace/StringProject/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index

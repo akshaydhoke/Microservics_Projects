@@ -1,0 +1,89 @@
+# Main side:
+https://jobs4times.com/
+
+# New features from java8 to java17v:
+https://reflectoring.io/java-release-notes/
+
+
+# Stream Api :
+
+https://java-8-tips.readthedocs.io/en/stable/streamsapi.html
+
+https://www.baeldung.com/java-8-streams
+
+// flatMap >>
+https://www.geeksforgeeks.org/stream-flatmap-java-examples/
+
+// Files >>
+https://mkyong.com/java8/java-8-stream-read-a-file-line-by-line/
+
+// Advance Api ::
+https://www.geeksforgeeks.org/how-to-build-a-custom-collector-in-java/?ref=rp
+
+// Bifunctions:
+https://www.geeksforgeeks.org/java-bifunction-interface-methods-apply-and-addthen/
+
+-------------------------------- IQ -------------------------------------------------
+
+1) https://www.softwaretestinghelp.com/java-8-interview-questions/
+
+
+------------------------------- P C S F Interfaces in 8 ------------------------------------------------------
+
+1) https://roytuts.com/java-supplier-consumer/
+2) https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d
+
+// Interviews : 
+https://www.geeksforgeeks.org/output-of-java-program-set-1/?ref=rp
+
+# innner classes: 
+https://www.geeksforgeeks.org/inner-class-java/
+# inner interfaces : 
+https://www.geeksforgeeks.org/interface-nested-class-another-interface/
+https://www.tutorialspoint.com/Can-we-define-a-class-inside-a-Java-interface
+
+------------------------------- Multi-treading concepts---------------------------------------------------
+https://www.interviewbit.com/multithreading-interview-questions/
+https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html#axzz7zmYXPL3I
+
+-------------------------------- MicroServices ---------------------------------------
+1) Employee and Address services example using RestTemplate : 
+https://www.geeksforgeeks.org/spring-boot-configure-a-resttemplate-with-resttemplatebuilder/?ref=ml_lbp
+
+2) Example of ModelMapper in SpringBoot App: 
+https://www.geeksforgeeks.org/how-to-use-modelmapper-in-spring-boot-with-example-project/?ref=ml_lbp
+
+3) How to Set Context Path in Spring Boot Application?
+https://www.geeksforgeeks.org/how-to-set-context-path-in-spring-boot-application/?ref=ml_lbp
+
+4)
+
+------------------------- Junit5----------------------
+1) https://www.digitalocean.com/community/tutorials/junit5-tutorial
+
+0) JUnit 5 Annotations With Examples>>
+ https://devqa.io/junit-5-annotations/
+
+1) JUnit – Sample Test Cases for String Java Service >>
+https://www.geeksforgeeks.org/junit-sample-test-cases-for-string-java-service/?ref=ml_lbp
+
+2) JUnit 5 – How to Write Parameterized Tests>>
+https://www.geeksforgeeks.org/junit-5-how-to-write-parameterized-tests/?ref=ml_lbp
+
+3) JUnit – Writing Sample Test Cases for StudentService in Java >>
+https://www.geeksforgeeks.org/junit-writing-sample-test-cases-for-studentservice-in-java/?ref=ml_lbp
+
+------------------------- Mockito----------------------
+
+1) Write Test Cases in Java Application using Mockito and Junit>>
+https://www.geeksforgeeks.org/how-to-write-test-cases-in-java-application-using-mockito-and-junit/
+
+2) Spring Boot Unit Testing CRUD REST API with JUnit and Mockito>>
+https://www.javaguides.net/2022/03/spring-boot-unit-testing-crud-rest-api-with-junit-and-mockito.html
+
+--------------------------Core-Java----------------------
+InterviewBit >>
+Multi-threading
+OOPS
+
+
